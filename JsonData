@@ -26,7 +26,7 @@ logo:"https://1.bp.blogspot.com/-ynyJQQSXEgc/XiqKsoGCU6I/AAAAAAAAFL8/hmDUJ84_SXQ
 },
 {
 name:"Geo News",
-url:"https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8",
+url:"http://streamer64.eboundservices.com/geo/geonews_abr/geo/geonews_master/chunks.m3u8",
 category:"News",
 logo:"https://1.bp.blogspot.com/-jkWXg5ml-rU/XiqMZCatbcI/AAAAAAAAFMI/hzDQYQ0wWSsRln1b0DS0iyHRJNlYTwOEwCLcBGAsYHQ/s1600/geo.png"
 },
@@ -35,5 +35,25 @@ name:"B4U Plus",
 url:"http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8",
 category:"Movies",
 logo:"https://3.bp.blogspot.com/-_qdoiBedrlg/XiqH_5WJODI/AAAAAAAAFLg/grZzPxY7stQSd1ke7KFeh4bZZId7_aePACLcBGAsYHQ/s320/b4uplus.png"
+}
+,
+{
+name:"Geo Khani",
+url:"http://streamer64.eboundservices.com/geo/geokahani_abr/geo/geokahani_master/chunks.m3u8",
+category:"Drama",
+logo:"https://1.bp.blogspot.com/-39JIAs8VVnU/XiqxkIeHTvI/AAAAAAAAFMc/u_mm8ZOT9BYBBezUXWXLKkL8bewEJOskwCLcBGAsYHQ/s1600/gkhani.png"
+}
+,
+{
+name:"POP",
+url:"https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8",
+category:"Kids",
+logo:"https://1.bp.blogspot.com/-AyHzk4WuAX0/Xiq0KSd8JmI/AAAAAAAAFMo/ltZkzoUlCJMAdUYogyRjYHzS4hJiFe-KgCLcBGAsYHQ/s1600/pop.png"
+},
+{
+name:"Ary Qtv",
+url:"http://158.69.229.30:8081/qtv_live/livestream/chunks.m3u8",
+category:"Religious",
+logo:"https://1.bp.blogspot.com/-L8mqR8ZBl5s/Xiq06uIvbsI/AAAAAAAAFMw/IWzY0Tau5VMFliwq5zWKCp62vc6NRv0SgCLcBGAsYHQ/s1600/ar.png"
 }
 ]
