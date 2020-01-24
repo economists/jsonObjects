@@ -1,5 +1,55 @@
 [
 {
+name:"Geo Khani",
+url:"http://streamer64.eboundservices.com/geo/geokahani_abr/geo/geokahani_master/chunks.m3u8",
+category:"Drama",
+logo:"https://1.bp.blogspot.com/-39JIAs8VVnU/XiqxkIeHTvI/AAAAAAAAFMc/u_mm8ZOT9BYBBezUXWXLKkL8bewEJOskwCLcBGAsYHQ/s1600/gkhani.png"
+},
+{
+name:"Public Music",
+url:"http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8",
+category:"Music",
+logo:"https://1.bp.blogspot.com/-plctp1JdDFU/Xiq9i8i4bwI/AAAAAAAAFM8/Pm8a_O62OhAo6Nto1gDbA5fEloOF4iPfACLcBGAsYHQ/s1600/pm.png"
+}
+,
+{
+name:"POP",
+url:"https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8",
+category:"Kids",
+logo:"https://1.bp.blogspot.com/-AyHzk4WuAX0/Xiq0KSd8JmI/AAAAAAAAFMo/ltZkzoUlCJMAdUYogyRjYHzS4hJiFe-KgCLcBGAsYHQ/s1600/pop.png"
+},
+{
+name:"Ary Qtv",
+url:"http://158.69.229.30:8081/qtv_live/livestream/chunks.m3u8",
+category:"Religious",
+logo:"https://1.bp.blogspot.com/-L8mqR8ZBl5s/Xiq06uIvbsI/AAAAAAAAFMw/IWzY0Tau5VMFliwq5zWKCp62vc6NRv0SgCLcBGAsYHQ/s1600/ar.png"
+},
+{
+name:"Hum Tv",
+url:"https://stream.simpaisa.com/pitvlive2/humtvnew3/playlist.m3u8",
+category:"Drama",
+logo:"https://1.bp.blogspot.com/-1aVmYtClKic/XirSSk6F9dI/AAAAAAAAFNI/PhQOF-DdMxIFxKjPd2O2QElH2BDDoainACLcBGAsYHQ/s1600/hum.png"
+},
+{
+name:"PTV Home",
+url:"https://stream.simpaisa.com/pitvlive2/ptvhome3/playlist.m3u8",
+category:"Drama",
+logo:"https://1.bp.blogspot.com/-Z4dq9i6ISik/Xirm6iY86WI/AAAAAAAAFNU/QgyCjbtNup4xiOm2mgTEE3IjxUWY-YrHwCLcBGAsYHQ/s1600/ptvhome.png"
+},
+{
+name:"A Plus",
+url:"https://stream.simpaisa.com/pitvlive2/aplus3/playlist.m3u8",
+category:"Drama",
+logo:"https://1.bp.blogspot.com/-kk3upWRNXiw/XirnuHl27aI/AAAAAAAAFNc/ovcQxM_Oq7Es59v_TH08HcojI2Z8bphmwCLcBGAsYHQ/s1600/logo_aplus.jpg"
+}
+,
+{
+name:"AAP News",
+url:"http://95.211.211.168/live/aaptvhd0250/playlist.m3u8",
+category:"News",
+logo:"https://1.bp.blogspot.com/-V7vVYSPRsjI/Xiroh_Rk38I/AAAAAAAAFNk/qTDIPfToY6cwTXUWD-vStIMPyKSQ_yJUwCLcBGAsYHQ/s320/appnews.png"
+},
+{
 name:"Star Movies",
 url:"http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8",
 category:"Movies",
@@ -35,25 +85,13 @@ name:"B4U Plus",
 url:"http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8",
 category:"Movies",
 logo:"https://3.bp.blogspot.com/-_qdoiBedrlg/XiqH_5WJODI/AAAAAAAAFLg/grZzPxY7stQSd1ke7KFeh4bZZId7_aePACLcBGAsYHQ/s320/b4uplus.png"
-}
-,
-{
-name:"Geo Khani",
-url:"http://streamer64.eboundservices.com/geo/geokahani_abr/geo/geokahani_master/chunks.m3u8",
-category:"Drama",
-logo:"https://1.bp.blogspot.com/-39JIAs8VVnU/XiqxkIeHTvI/AAAAAAAAFMc/u_mm8ZOT9BYBBezUXWXLKkL8bewEJOskwCLcBGAsYHQ/s1600/gkhani.png"
-}
-,
-{
-name:"POP",
-url:"https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8",
-category:"Kids",
-logo:"https://1.bp.blogspot.com/-AyHzk4WuAX0/Xiq0KSd8JmI/AAAAAAAAFMo/ltZkzoUlCJMAdUYogyRjYHzS4hJiFe-KgCLcBGAsYHQ/s1600/pop.png"
 },
 {
-name:"Ary Qtv",
-url:"http://158.69.229.30:8081/qtv_live/livestream/chunks.m3u8",
-category:"Religious",
-logo:"https://1.bp.blogspot.com/-L8mqR8ZBl5s/Xiq06uIvbsI/AAAAAAAAFMw/IWzY0Tau5VMFliwq5zWKCp62vc6NRv0SgCLcBGAsYHQ/s1600/ar.png"
+name:"Cartoon Network",
+url:"https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8",
+category:"Kids",
+logo:"https://1.bp.blogspot.com/-CcKg_wAWqiQ/XirppLKov6I/AAAAAAAAFNw/-eP-BZOt3IsmIcHlQAheuFSMLTVY19adwCLcBGAsYHQ/s1600/cn.png"
 }
+
+
 ]
