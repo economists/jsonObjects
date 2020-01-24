@@ -9,7 +9,7 @@ logo:"https://photos.google.com/share/AF1QipN0qoUKdkd7UGR456kVzturVCgFKezKxXiRyO
 name:"92 News",
 url:"http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
 category:"News",
-logo:"https://photos.google.com/share/AF1QipMaAtqXRiHhfBogiUdnJext14uvorbC3BGwB7GGwb0NmoccPjx6geL4BslaYbDhgA?key=TWdtOUNtNWFWaVRXelNkcVplRzlOWGZoVm1KaXN3"
+logo:"https://1.bp.blogspot.com/-ay8Nyaikc0U/XiqJYNY42MI/AAAAAAAAFLw/vjWicEnXBU8uvpdegGcSu_C_DgElrXtNgCLcBGAsYHQ/s1600/92_News_HD_Plus_logo.png"
 },
 {
 name:"Desniy Junior",
@@ -19,15 +19,22 @@ logo:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0VABWjRkmezoUNHNh
 }
 ,
 {
-name:"Ary News",
-url:"http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8",
+name:"Dunya News",
+url:"http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8",
 category:"News",
-logo:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0VABWjRkmezoUNHNhVvZ3X3v8Tc8jB6_r8jOmM9VFda9wcRZ4"
+logo:"https://1.bp.blogspot.com/-ynyJQQSXEgc/XiqKsoGCU6I/AAAAAAAAFL8/hmDUJ84_SXQxut_yUNoRwKfW-NT_ZryywCLcBGAsYHQ/s1600/dunya.png"
 },
 {
 name:"Geo News",
-url:"http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8",
+url:"https://stream1.jeem.tv/geo/geonews_abr/playlist.m3u8",
 category:"News",
-logo:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0VABWjRkmezoUNHNhVvZ3X3v8Tc8jB6_r8jOmM9VFda9wcRZ4"
+logo:"https://1.bp.blogspot.com/-jkWXg5ml-rU/XiqMZCatbcI/AAAAAAAAFMI/hzDQYQ0wWSsRln1b0DS0iyHRJNlYTwOEwCLcBGAsYHQ/s1600/geo.png"
+},
+,
+{
+name:"B4U Plus",
+url:"http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8",
+category:"Movies",
+logo:"https://3.bp.blogspot.com/-_qdoiBedrlg/XiqH_5WJODI/AAAAAAAAFLg/grZzPxY7stQSd1ke7KFeh4bZZId7_aePACLcBGAsYHQ/s320/b4uplus.png"
 }
 ]
