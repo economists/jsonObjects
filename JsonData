@@ -118,6 +118,44 @@ url:"https://stream.simpaisa.com/pitvlive2/kohenoor3/playlist.m3u8",
 category:"News",
 logo:"https://1.bp.blogspot.com/-meOi8So25Bo/XiscMWKHL1I/AAAAAAAAFOQ/Xtxn9YCNaPQ_EXeTmmewYkPfPBZA6hyWQCLcBGAsYHQ/s1600/kohinoor.png"
 }
-
+,
+{
+name:"Express News",
+url:"https://stream.simpaisa.com/pitvlive2/expressnews3/playlist.m3u8",
+category:"News",
+logo:"https://1.bp.blogspot.com/-Pa1Ic0xLmmo/Xi_l1KfydnI/AAAAAAAAFO0/3hZASnsanRMBiYc6DGUtruiQWRz5zIJ3gCLcBGAsYHQ/s320/Capture.PNG"
+},
+{
+name:"Animal Planet",
+url:"https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8",
+category:"Documentry",
+logo:"https://1.bp.blogspot.com/-BMbLP8d-w_k/Xi_mW0DTgGI/AAAAAAAAFO8/XcFCwQNU8iU78wiF1IrSY5CAdSVBtVy-QCLcBGAsYHQ/s1600/animal.png"
+},
+{
+name:"Discovery Channel",
+url:"https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8",
+category:"Documentry",
+logo:"https://1.bp.blogspot.com/-p-9yYtYioI8/Xi_m1wQ8v0I/AAAAAAAAFPE/hvgwSSI5GYwQiFVgXEAC5UVE3A1-QYHMQCLcBGAsYHQ/s1600/dis.png"
+}
+,
+{
+name:"Baby Cartoon",
+url:"https://stream.simpaisa.com/pitvlive2/baby_360p/playlist.m3u8",
+category:"Kids",
+logo:"https://1.bp.blogspot.com/-C5u5F4SmlsE/Xi_ns6DE6tI/AAAAAAAAFPM/3lINDadHY4AbQc0XdWN1OmFD3rJw3q09QCLcBGAsYHQ/s1600/babytv.png"
+}
+,
+{
+name:"Dil Se",
+url:"http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8",
+category:"Music",
+logo:"https://1.bp.blogspot.com/-FkYPQ1W7Fww/XjBGOV35XxI/AAAAAAAAFPY/fdoKk0By5asww73QV-WSWClrr6msP8IrwCLcBGAsYHQ/s1600/dilse.png"
+},
+{
+name:"B4U Movies",
+url:"http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8",
+category:"Music",
+logo:"https://1.bp.blogspot.com/-zggPZr6n-io/XjBH-RmK6bI/AAAAAAAAFPk/1AD29JDzrvsH4CvSgD9ZgXHZ4gOLGQgKACLcBGAsYHQ/s320/b4umovies.png"
+}
 
 ]
