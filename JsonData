@@ -48,7 +48,9 @@ name:"AAP News",
 url:"http://95.211.211.168/live/aaptvhd0250/playlist.m3u8",
 category:"News",
 logo:"https://1.bp.blogspot.com/-V7vVYSPRsjI/Xiroh_Rk38I/AAAAAAAAFNk/qTDIPfToY6cwTXUWD-vStIMPyKSQ_yJUwCLcBGAsYHQ/s320/appnews.png"
-},
+}
+
+,
 {
 name:"Star Movies",
 url:"http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8",
@@ -91,6 +93,30 @@ name:"Cartoon Network",
 url:"https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8",
 category:"Kids",
 logo:"https://1.bp.blogspot.com/-CcKg_wAWqiQ/XirppLKov6I/AAAAAAAAFNw/-eP-BZOt3IsmIcHlQAheuFSMLTVY19adwCLcBGAsYHQ/s1600/cn.png"
+},
+{
+name:"Movie Night",
+url:"http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8",
+category:"Movies",
+logo:"https://1.bp.blogspot.com/-0NjWooLaC7c/Xir435mA9FI/AAAAAAAAFN8/AfspGhfQNeEIlE_RrtJxa7SSBHdhqd8xwCLcBGAsYHQ/s1600/mov.png"
+},
+{
+name:"Ptv News",
+url:"https://stream.simpaisa.com/pitvlive2/ptvnews3/playlist.m3u8",
+category:"News",
+logo:"https://1.bp.blogspot.com/-yS_m_agRJD4/XisclDNvONI/AAAAAAAAFOY/-JSiZKg4q7ULYqLUbd2qYelsw03PoNnGgCLcBGAsYHQ/s1600/ptvnewss.png"
+},
+{
+name:"City 42",
+url:"https://stream.simpaisa.com/pitvlive2/city423/playlist.m3u8",
+category:"News",
+logo:"https://1.bp.blogspot.com/-thV6ShrGzfQ/Xisbn3tbiBI/AAAAAAAAFOI/JoF1-0jeCuEgCAoi5JlBpVtcb2S2LvRIgCLcBGAsYHQ/s1600/city52.png"
+},
+{
+name:"Kohenoor News",
+url:"https://stream.simpaisa.com/pitvlive2/kohenoor3/playlist.m3u8",
+category:"News",
+logo:"https://1.bp.blogspot.com/-meOi8So25Bo/XiscMWKHL1I/AAAAAAAAFOQ/Xtxn9YCNaPQ_EXeTmmewYkPfPBZA6hyWQCLcBGAsYHQ/s1600/kohinoor.png"
 }
 
 
